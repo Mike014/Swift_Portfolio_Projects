@@ -1,0 +1,39 @@
+# Xcode
+DerivedData/
+*.xcuserdata/
+*.xcworkspace/
+*.xcuserstate
+*.xcscheme
+*.swp
+.idea/
+
+# macOS
+.DS_Store
+
+# Swift Package Manager
+/.build/
+*.resolved
+
+# CocoaPods
+Pods/
+
+# Carthage
+Carthage/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+
+# Temporary files
+*.temp
+*.swp
+*.tmp
+*.bak
+*~
+
+# Logs
+*.log
+
+# Environment
+.env
